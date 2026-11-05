@@ -18,4 +18,4 @@ The first 25 entries cover growth loops, product-market fit, customer acquisitio
 
 ## Contribute
 
-Have a suggestion, correction, or topic you'd like covered? [Open an issue in the Growth Marketing Glossary repository](https://github.com/startup-growth/growth-marketing-glossary/issues). Examples and reliable references are especially welcome.
+Have a suggestion, correction, or topic you'd like covered? Fill out our [feedback form](https://startup-growth.zite.so/). Examples and reliable references are especially welcome.
